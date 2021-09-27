@@ -1,8 +1,10 @@
 {
     "play": ["p"],
     "skip": ["s", "fs","next"],
-    "queue": ["q","view","list","l"],
+    "queue": ["q","view","list"],
     "summon": ["join"],
+    "repeat": ["r"],
+    "loop": ["l"],
     "volume": ["vol","v"],
     "resume": ["start"]
 }
